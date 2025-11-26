@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pandas
+scikit-learn
+joblib
+lightgbm
+gunicorn
+numpy
+python-multipart
+azure-storage-blob
