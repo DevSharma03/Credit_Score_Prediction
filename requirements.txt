@@ -1,10 +1,8 @@
 fastapi
-uvicorn[standard]
-pandas
-scikit-learn
-joblib
-lightgbm
+uvicorn
 gunicorn
+scikit-learn
+pandas
 numpy
-python-multipart
-azure-storage-blob
+joblib
+pydantic
